@@ -1,0 +1,62 @@
+@media (max-width: 900px) {
+  .navbar-menu .menu li {
+    font-size: 1.4rem;
+    min-width: 20px;
+  }
+  .logo-content {
+    margin-right: auto !important ;
+    padding-left: 10px;
+  }
+  .logo-content img {
+    width: 183px;
+  }
+  .navbar-menu .menu li a {
+    font-size: 0.8rem !important;
+    font-weight: 500;
+  }
+  .img-section-2 div img {
+    width: 500px;
+  }
+  /* s3 */
+  .menu-item {
+    width: 202px;
+  }
+  .menu-item a img {
+    width: 200px;
+  }
+  .section-3 {
+    font-size: 1rem;
+  }
+  .text h5 {
+    font-size: 1.1rem;
+  }
+  .text p {
+    font-size: 0.8rem;
+  }
+
+  h1 {
+    font-size: 1.8rem !important;
+  }
+  .menu-item {
+    margin: 20px 5px;
+  }
+  /* s4 */
+  .card-1-item {
+    margin-left: 20px;
+  }
+  .card-1-item {
+    width: 150px;
+  }
+  .card-1-item p {
+    font-size: 0.8rem !important;
+  }
+  .img-card-1 {
+    width: 148px;
+  }
+  .middle {
+    font-size: 0.8rem;
+  }
+  .logo-doitac img {
+    padding: 20px;
+  }
+}

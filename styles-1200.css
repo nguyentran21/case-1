@@ -1,0 +1,43 @@
+@media (max-width: 1200px) {
+  .img-section-2 div img {
+    width: 500px;
+  }
+  .navbar-menu .menu li a {
+    font-size: 1rem;
+  }
+  /* s3 */
+  .menu-item {
+    width: 202px;
+  }
+  .menu-item a img {
+    width: 200px;
+  }
+  .section-3 {
+    font-size: 1rem;
+  }
+  .text h5 {
+    font-size: 1.1rem;
+  }
+  .text p {
+    font-size: 0.8rem;
+  }
+  h1 {
+    font-size: 1.8rem !important;
+  }
+  /* s4 */
+  .nav-card-1 {
+    margin-right: 50px;
+  }
+  .card-1-item {
+    width: 170px;
+  }
+  .card-1-item p {
+    font-size: 0.8rem !important;
+  }
+  .img-card-1 {
+    width: 168px;
+  }
+  .middle {
+    font-size: 0.8rem;
+  }
+}
